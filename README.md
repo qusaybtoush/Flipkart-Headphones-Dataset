@@ -1,0 +1,2 @@
+# Flipkart-Headphones-Dataset
+This dataset containing details of various headphones products in India scraped from an e-commerce website 'Flipkart.com'. This dataset has 1000 samples with 7 attributes. Attributes. Title of the headphone product (title) Color of the headphone product (color) Type of the headphone product (type) Average rating of the product (avg_rating) Number of ratings available (num_of_ratings) Selling price of the headphone at the time of scraping (selling_price) Maximum Retail Price (MRP)
